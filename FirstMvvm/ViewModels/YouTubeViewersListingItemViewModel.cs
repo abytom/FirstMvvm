@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstMvvm.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,16 +10,17 @@ namespace FirstMvvm.ViewModels
 {
     public class YouTubeViewersListingItemViewModel: ViewModelBase
     {
-        public string Username { get; }
+        public YouTubeViewer YouTubeViewer { get;  }
 
-        public ICommand Edit { get; }
+        public string Username => YouTubeViewer.Username;  
 
-        public ICommand Delete { get; }
+        public ICommand EditCommand { get; }
 
-        public YouTubeViewersListingItemViewModel(string username)
+        public ICommand DeleteCommand { get; }
+
+        public YouTubeViewersListingItemViewModel(YouTubeViewer youTubeViewer)
         {
-            Username = username;
+            this.YouTubeViewer = youTubeViewer;
         }
-
     }
 }

@@ -14,8 +14,12 @@ namespace FirstMvvm.ViewModels
 
         private YouTubeViewer SelectedYouTubeViewer => _selecetdYouTubeViewerStore.SelectedYouTubeViewer;
 
-        public string Username => SelectedYouTubeViewer?.Username;
 
+        // If no user is selected use this property to display nothing!
+        public bool HasSelectedYouTubeViewer => SelectedYouTubeViewer != null;
+
+        public string Username => SelectedYouTubeViewer?.Username ?? "Unknown";
+        
 
         public string IsSubscribedDisplay => (SelectedYouTubeViewer?.IsSubscribed ?? false) ? "Yes" : "No";
 
@@ -24,7 +28,22 @@ namespace FirstMvvm.ViewModels
         public YouTubeViewersDetailsViewModel(SelectedYouTubeViewerStore selecetdYouTubeViewerStore)
         {
             _selecetdYouTubeViewerStore = selecetdYouTubeViewerStore;
+
+            _selecetdYouTubeViewerStore.SelectedYouTubeViewerChanged += SelecetdYouTubeViewerStore_SelectedYouTubeViewerChanged;
         }
 
+        protected override void Dispose()
+        {
+            _selecetdYouTubeViewerStore.SelectedYouTubeViewerChanged -= SelecetdYouTubeViewerStore_SelectedYouTubeViewerChanged;
+            base.Dispose();
+        }
+
+        private void SelecetdYouTubeViewerStore_SelectedYouTubeViewerChanged()
+        {
+            OnPropertyChanged(nameof(HasSelectedYouTubeViewer));
+            OnPropertyChanged(nameof(Username));
+            OnPropertyChanged(nameof(IsSubscribedDisplay));
+            OnPropertyChanged(nameof(IsMemberDispaly));
+        }
     }
 }
