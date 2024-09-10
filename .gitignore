@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore build directory
+/build/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+
+#Ignore .vs folder
+.vs/
+.vs/
+/ .vs
