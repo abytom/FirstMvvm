@@ -28,3 +28,4 @@ D:\VS Workspace\FirstMvvm\FirstMvvm\obj\Debug\net8.0-windows\GeneratedInternalTy
 D:\VS Workspace\FirstMvvm\FirstMvvm\bin\Debug\net8.0-windows\DropdownMenuControl.dll
 D:\VS Workspace\FirstMvvm\FirstMvvm\obj\Debug\net8.0-windows\FirstMvvm.csproj.AssemblyReference.cache
 D:\VS Workspace\FirstMvvm\FirstMvvm\obj\Debug\net8.0-windows\FirstMvvm.csproj.Up2Date
+D:\VS Workspace\FirstMvvm\FirstMvvm\obj\Debug\net8.0-windows\FirstMvvm.sourcelink.json

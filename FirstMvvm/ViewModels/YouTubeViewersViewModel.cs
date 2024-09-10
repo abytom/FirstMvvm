@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstMvvm.Stores;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,13 +17,13 @@ namespace FirstMvvm.ViewModels
         
         public ICommand AddYouTubeViewersCommand { get; }
 
-        public YouTubeViewersViewModel()
+        public YouTubeViewersViewModel(SelectedYouTubeViewerStore _selecetdYouTubeViewerStore)
         
         {
 
             // for data binding we create these instanced and also do "DataContext" at the XAML end inside YouTubeViewersView
-            YouTubeViewersListingViewModel = new YouTubeViewersListingViewModel();
-            YouTubeViewersDetailsViewModel = new YouTubeViewersDetailsViewModel();
+            YouTubeViewersListingViewModel = new YouTubeViewersListingViewModel(_selecetdYouTubeViewerStore);
+            YouTubeViewersDetailsViewModel = new YouTubeViewersDetailsViewModel(_selecetdYouTubeViewerStore);
 
         }
     }

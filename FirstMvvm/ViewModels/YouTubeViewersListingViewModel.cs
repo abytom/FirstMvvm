@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstMvvm.Stores;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace FirstMvvm.ViewModels
         private ObservableCollection<YouTubeViewersListingItemViewModel> _youTubeViewersListingItemViewModels;
         public IEnumerable<YouTubeViewersListingItemViewModel> YouTubeViewersListingItemViewModels => _youTubeViewersListingItemViewModels;
 
-        public YouTubeViewersListingViewModel()
+        public YouTubeViewersListingViewModel(SelectedYouTubeViewerStore _selecetdYouTubeViewerStore)
         {
             _youTubeViewersListingItemViewModels = new ObservableCollection<YouTubeViewersListingItemViewModel>();
 
