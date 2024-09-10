@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NLnlmZqfnbQ=",
+  "success": true,
+  "projectFilePath": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\FirstMvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abyto\\.nuget\\packages\\dropdownmenu.wpf\\1.0.0\\dropdownmenu.wpf.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
