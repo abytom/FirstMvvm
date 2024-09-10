@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Workspace\\FirstMvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\components\\youtubeviewersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\components\\youtubeviewersdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\viewmodels\\youtubeviewersdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\viewmodels\\youtubeviewersdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\views\\youtubeviewersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\views\\youtubeviewersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\views\\youtubeviewersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\views\\youtubeviewersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\viewmodels\\youtubeviewerslistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\viewmodels\\youtubeviewerslistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\viewmodels\\youtubeviewersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\viewmodels\\youtubeviewersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\components\\youtubeviewerslisting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\components\\youtubeviewerslisting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\components\\youtubeviewersdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\components\\youtubeviewersdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|d:\\vs workspace\\firstmvvm\\firstmvvm\\firstmvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEE6D521-76FE-4E5F-88E5-3E4F71755B4E}|FirstMvvm\\FirstMvvm.csproj|solutionrelative:firstmvvm\\firstmvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YouTubeViewersDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\ViewModels\\YouTubeViewersDetailsViewModel.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersDetailsViewModel.cs",
+              "RelativeToolTip": "FirstMvvm\\ViewModels\\YouTubeViewersDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:55:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouTubeViewersDetails.xaml",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersDetails.xaml",
+              "RelativeDocumentMoniker": "FirstMvvm\\Components\\YouTubeViewersDetails.xaml",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersDetails.xaml",
+              "RelativeToolTip": "FirstMvvm\\Components\\YouTubeViewersDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T16:29:31.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YouTubeViewersView.xaml",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Views\\YouTubeViewersView.xaml",
+              "RelativeDocumentMoniker": "FirstMvvm\\Views\\YouTubeViewersView.xaml",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Views\\YouTubeViewersView.xaml",
+              "RelativeToolTip": "FirstMvvm\\Views\\YouTubeViewersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T16:26:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FirstMvvm\\MainWindow.xaml",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\MainWindow.xaml",
+              "RelativeToolTip": "FirstMvvm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T15:06:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YouTubeViewersView.xaml.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Views\\YouTubeViewersView.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\Views\\YouTubeViewersView.xaml.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Views\\YouTubeViewersView.xaml.cs",
+              "RelativeToolTip": "FirstMvvm\\Views\\YouTubeViewersView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:19:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YouTubeViewersListingViewModel.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersListingViewModel.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\ViewModels\\YouTubeViewersListingViewModel.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersListingViewModel.cs",
+              "RelativeToolTip": "FirstMvvm\\ViewModels\\YouTubeViewersListingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:54:25.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YouTubeViewersViewModel.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersViewModel.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\ViewModels\\YouTubeViewersViewModel.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\YouTubeViewersViewModel.cs",
+              "RelativeToolTip": "FirstMvvm\\ViewModels\\YouTubeViewersViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:52:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "FirstMvvm\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:40:14.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\App.xaml.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\App.xaml.cs",
+              "RelativeToolTip": "FirstMvvm\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:20:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YouTubeViewersListing.xaml.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersListing.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\Components\\YouTubeViewersListing.xaml.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersListing.xaml.cs",
+              "RelativeToolTip": "FirstMvvm\\Components\\YouTubeViewersListing.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:27:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\App.xaml",
+              "RelativeDocumentMoniker": "FirstMvvm\\App.xaml",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\App.xaml",
+              "RelativeToolTip": "FirstMvvm\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-08T15:16:35.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FirstMvvm\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:06:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YouTubeViewersDetails.xaml.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersDetails.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\Components\\YouTubeViewersDetails.xaml.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\Components\\YouTubeViewersDetails.xaml.cs",
+              "RelativeToolTip": "FirstMvvm\\Components\\YouTubeViewersDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:35:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FirstMvvm.csproj",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\FirstMvvm.csproj",
+              "RelativeDocumentMoniker": "FirstMvvm\\FirstMvvm.csproj",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\FirstMvvm.csproj",
+              "RelativeToolTip": "FirstMvvm\\FirstMvvm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T16:24:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FirstMvvm\\AssemblyInfo.cs",
+              "ToolTip": "D:\\VS Workspace\\FirstMvvm\\FirstMvvm\\AssemblyInfo.cs",
+              "RelativeToolTip": "FirstMvvm\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:58:59.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
